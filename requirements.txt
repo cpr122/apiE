@@ -1,3 +1,5 @@
+Flask==2.0.1
+gunicorn==20.1.0
 aiobotocore @ file:///croot/aiobotocore_1701291493089/work
 aiohttp @ file:///croot/aiohttp_1707342283163/work
 aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
